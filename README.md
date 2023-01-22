@@ -7,17 +7,19 @@ A simple C# project that demonstrates how to use the Dapper library to perform C
 
 ## Getting Started
 1. Clone the repository
-2. git clone https://github.com/yourusername/OpenDataAccess.git
-Open the solution in Visual Studio
-Update the connection string in the Program.cs file to match your SQL Server setup
-Run the application
-Functionality
+2. `git clone https://github.com/yourusername/OpenDataAccess.git`
+3. Open the solution in Visual Studio
+4. Update the connection string in the `Program.cs` file to match your SQL Server setup
+5. Run the application
+
+## Functionality
 The application demonstrates the following functionality:
 
-Retrieving data from a SQL Server table and displaying it on the console
-Inserting data into a SQL Server table
-Updating data in a SQL Server table
-Libraries used
++ Retrieving data from a SQL Server table and displaying it on the console
++ Inserting data into a SQL Server table
++ Updating data in a SQL Server table
+
+## Libraries used
 Dapper: A simple object mapper for .NET
 Microsoft.Data.SqlClient: ADO.NET driver for SQL Server
 Note
